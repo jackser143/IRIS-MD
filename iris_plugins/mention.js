@@ -4,22 +4,21 @@
 //                                                                                                      //
 //                                             𝚅.1.2.7                                                  // 
 //                                                                                                      //
-//                          ██╗ ██████╗ ██╗███████╗    ███╗   ███╗ ██████╗                              //
-//                          ██║ ██╔══██╗██║██╔════╝    ████╗ ████║ ██╔══██╗                             //
-//                          ██║ ██████╔╝██║███████╗    ██╔████╔██║ ██║  ██║                             //
-//                          ██║ ██╔══██╗██║╚════██║    ██║╚██╔╝██║ ██║  ██║                             //
-//                          ██║ ██║  ██║██║███████║    ██║ ╚═╝ ██║ ██████╔╝                             //
-//                          ╚═╝ ╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝ ╚═════╝                              //
+//                          
+
+// ᾲ̵̧̜̟͇̮̪̠̺̞͎̠̠̜͒̓̒̆́͋м̷̧̛͈̯̇̑̈́͌̔̇̑͊̏̈́́̆ͅ꙰̶̞̗͚̜̺͚͚̬͗̇̄͂̈́͌̚м̸̛͉̮͖̯͙͎̩̓̿̈́́͆̆̏͆̿̚꙰̴̨̀́̐̒̇́̈ㄩ̸̡͚̻̼͔͕́͂̌̂̂̒꙰̶͙̀̽͑́͑̇́͝
+
+                              //
 //                                                                                                      //
-//                                          BY: VENOX-SENPAI                                            //
+//                                          BY: SYAM-SENPAI                                            //
 //                                                                                                      //
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 
 /**
 
-* @project_name : IRIS-MD
-* @Developer : Venox-Senpai
+* @project_name : AM꙰M꙰U꙰
+* @Developer : Syam-Senpai
 * @Version : v.1.2.7
 * @license : APACHE-2.0
 
@@ -29,7 +28,7 @@ TO A DMCA REPORT FROM THE OFFICIAL GITHUB, WHICH RESULT IN
 REMOVING UR COPIED/RE-UPLOADED PROJECT FROM THERE, IN SOME
 CONDITIONS IT CAN LEADS TO TERMINATE UR ACCOUNT FROM THAT PLATFORM
 
-│• @C_holder : Venox-Senpai
+│• @C_holder : Syam-Senpai
 
 **/
 
@@ -55,13 +54,14 @@ const audios = [
 
 
 const images = [
-    "https://i.ibb.co/2Fxnv8W/bot2.jpg",
-    "https://i.ibb.co/G35jn3J/bot2p.jpg"
+    "https://telegra.ph/file/6bcca8ad812e429d24dde.jpg",
+    "https://telegra.ph/file/08087652550991390c54f.jpg", 
+    "https://telegra.ph/file/f89a97a65465401faf323.jpg" 
 ];
 
 const title = INFO.split(';')[1];
 const body = "|| ◁ㅤ❚❚ㅤ▷||ㅤ ↻";
-const url = IG;
+const url = "http://api.whatsapp.com/send?phone=+919947121619&text=𝐈_𝐋𝐎𝐕𝐄_𝐔_😌💗_"; 
 const ptt = true;
 
 iris({ on: "text", fromMe: isPublic }, async ({ m, client, args }) => {
@@ -84,8 +84,8 @@ iris({ on: "text", fromMe: isPublic }, async ({ m, client, args }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 externalAdReply: {
-                    title: title,
-                    body: body,
+                    title: 🤍⃞𝄟ꪶ𝐒͢ʏ᪳ᴀ͓ᴍ͎ ͢𝐒ᴇ͓ꪳʀ͎𖦻⃞🍓,
+                    body: ⊘ 𝘜𝘴𝘦𝘳 𝘕𝘰𝘵 𝘍𝘰𝘶𝘯𝘥 !!!,
                     mediaType: 2,
                     thumbnail: imageBuffer,
                     mediaUrl: url,
